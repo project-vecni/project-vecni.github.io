@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[98],{7499:a=>{a.exports=JSON.parse('{"title":"Pravila","description":"Pravila","slug":"/category/pravila","permalink":"/docs/category/pravila","navigation":{"next":{"title":"Pravila Servera","permalink":"/docs/pravila/"}}}')}}]);

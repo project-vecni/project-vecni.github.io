@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[805],{1609:e=>{e.exports=JSON.parse('{"title":"Donacije","description":"Donacijes","slug":"/category/donacije","permalink":"/docs/category/donacije","navigation":{"next":{"title":"Donacije","permalink":"/docs/donacije/"}}}')}}]);
