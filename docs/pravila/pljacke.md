@@ -18,6 +18,7 @@ sidebar_position: 5
 - Pljačka može biti i openfire/taoc
 - Zabranjeno je ići u bazu nakon 30min
 - Dozvoljeno presedanje
+- **Ukoliko opljačkate prodavnicu a policija nije još došla, vi imate pravo pobjeći**
 
 ## PLJAČKA SPOREDNE BANKE
 - MIN/MAX pljačkaša 3/5
@@ -34,3 +35,4 @@ sidebar_position: 5
 - Pljačka može biti i openfire/taoc
 - Zabranjeno je ići u bazu nakon 30min
 - Dozvoljeno je presedanje
+- **Ukoliko opljačkate zlataru a policija nije još došla, vi imate pravo pobjeći**
