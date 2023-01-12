@@ -35,6 +35,7 @@ sidebar_position: 0
 - Zabranjeno korišćenje bilo kojeg 3rd party voip programa (u to ulazi i voice changer), jedini način komunikacije je in-game
 - Svaki vid Ubijanja/DeathMatcha bez dovoljno jakog razloga na serveru nije dozvoljen
 - Svaki vid prevare nije dozvoljen na serveru
+- Zabranjena sadnja trave na privatnim posjedima (kuće, moteli, baze mafija, apartmani itd.)
 ## Dozvoljeno
 - Niste dužni izgovarati kada nekoga vežete, vučete, pretražujete, konfiskujete, vezujete pojas
 - Drive By je dozvoljen svima osim vozaču uz dovoljno jak rp razlog
