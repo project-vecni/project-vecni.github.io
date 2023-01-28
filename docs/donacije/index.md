@@ -3,8 +3,18 @@ title: Donacije
 sidebar_position: 0
 ---
 
-- Ukoliko želite da donirate za nešto otvorite tiket [ovdje](https://discord.com/channels/403535576319655937/1057969427288698962)
-- Oko donacije se dogovarate isključivo sa vlasnicima (EternalSN#2634, La Korunja#2074, Ostoja#4323, Katoteki#6973)
-- Zabranjeno je donirati za In-Game novac
-- Zabranjeno je preprodavanje donacija za stvaran novac
-- **Za cijenu svega se dogovarate u tiketu**
+## Pravila donacija :
+
+# Uplate
+>* Donacije se vrse putem uplate na ziro racun (dobicete u poruci isti)
+>* Paypal
+>* WE - Western Union
+
+- Donacije se koriste za unapredjivanje samog servera (Skripte, odrzavanje i sl.) 
+- Donacije su finalne i nije ih moguce refundirati
+- Nije moguce dobiti nista van okvira same uplate (donacije). NPR. (dodatne benificije, puske, novac, automobili, itd.)
+- Cenovnik je podlozan promenama, stoga pratite sve informacije u vezi istog
+- Popust ostvarujete na vecu kolicinu kupljenih stvari (organizacija, automobili, itd.) ne na pojedinacnu
+
+
+### Uplatom novca, prihvatate uslove koriscenja "Project Vecni" online usluga.
