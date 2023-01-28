@@ -12,4 +12,4 @@ sidebar_position: 7
 - Minimalni broj članova na teritorji je 3
 - Na teritorijama je zabranjeno dovoditi EMS radi oživljavanja
 - Zabranjeno je dolaziti helikopterom na teritoriju
-- babica (vođenje svojih na babicu vračanje ??? )
+- Korištenje babice je dozvoljeno ali nije dozvoljeno vratiti se na teritoriju
