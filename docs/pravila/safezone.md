@@ -11,6 +11,9 @@ Safe Zone na serveru su:
 
 ![bolnica](https://cdn.discordapp.com/attachments/857252871530348567/1058216377636364348/Screenshot_3.png)
 
+* Policija
+![pd](https://cdn.discordapp.com/attachments/1063918296325423156/1068893250833895474/Screenshot_8.png)
+
 - U Safe Zoni nije dozvoljeno sljedeće:
 >* Kidnapovanje
 >* Vezanje
