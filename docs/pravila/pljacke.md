@@ -5,6 +5,8 @@ sidebar_position: 5
 
 ## PLJAČKA BANKOMATA
 
+### Sve pljačke osim bankomata se moraju najaviti u ovoj [sobi](https://discord.com/channels/403535576319655937/1058067612115927121) te morate dobiti odobrenje od staffa za istu
+
 - MIN/MAX pljačkaša 1
 - Dozvoljeno je bežati samo s jednim vozilom (AUTO/MOTOR)
 - Zabranjen je openfire
