@@ -40,3 +40,7 @@ sidebar_position: 0
 ## Dozvoljeno
 - Niste dužni izgovarati kada nekoga vežete, vučete, pretražujete, konfiskujete, vezujete pojas
 - Drive By je dozvoljen svima osim vozaču uz dovoljno jak rp razlog
+- LOOT POLICIJSKE OPREME JE DOZVOLJEN SAMO NA SLEDECIM DESAVANJIMA :
+  >* RACIJE NA BAZE
+  >* RACIJE NA ILEGALNE LOKACIJE
+  >* OPENFIRE PLJACKE

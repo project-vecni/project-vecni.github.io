@@ -25,10 +25,6 @@ sidebar_position: 3
 - Dozvoljeno je vući sa pištoljem (duga cev ne)
 - Dozvoljeno je pretraživanje u koliko lice ima zatamljena stakla, masku, ilegalne iteme (+70%)
 - Dozvoljeno je pucati prvi ako lice ima oružije u rukama
-- LOOT POLICIJSKE OPREME JE DOZVOLJEN SAMO NA SLEDECIM DESAVANJIMA :
-  >* RACIJE NA BAZE
-  >* RACIJE NA ILEGALNE LOKACIJE
-  >* OPENFIRE PLJACKE
 
 ## RACIJE (Mafija/Banda)
 - Policiji je dozvoljeno vršiti 2 racije po jednoj organizaciji dnevno
