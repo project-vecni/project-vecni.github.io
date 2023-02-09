@@ -19,7 +19,8 @@ sidebar_position: 0
 >* može revive
 >* može vozilo
 - Zabranjeno napuštanje karaktera, izuzev admin situacije
-- U slučaju faila NE SMIJETE prekinuti Roleplay, kada se Roleplay završi pozovite admina (dužni ste imati snimak) te će vam se šteta nadoknadii
+- U slučaju faila NE SMIJETE prekinuti Roleplay, kada se Roleplay završi pozovite admina (dužni ste imati snimak) te će vam se šteta nadoknadi
+- Policija ima pravo držati vas 30 min u pritvoru bez dokaza (postoji osnovana sumnja), 60 min uz dokaz, nakon isteka vremena ovisno o situaciji dolazi do presude ili puštanja lica. U slučaju da napravite LTA, dobivate dosije za ono zbog čega ste privedeni, bez da postoji dokaz (smatra se da ste priznali sve za što ste optuženi)
 - U slučaju kršenja prometnih znakova/pravila policija ima pravo zaustaviti vas
 - Zabranjeno bježanje od policije ako nemata ništa ilegalno kod sebe
 - Zabranjeno oduzimanje hrane, vode, dokumenata

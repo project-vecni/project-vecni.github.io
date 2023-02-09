@@ -14,7 +14,7 @@ sidebar_position: 1
 - LTA - 200 + brisanje inventorya
 - BA - 300-ban
 - CB - 50
-- DTA - 200+
+- DTA - 200+ (u ovisnosti o situaciju postoji mogućnost permanja karaktera)
 - S Rule - 200+
 - KOS - 200+
 - RK - 100+
